@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 * [Node.js](https://nodejs.org/en/download/) (LTS version recommended)
 * [npm](https://www.npmjs.com/get-npm) (comes with Node.js) or [Yarn](https://yarnpkg.com/getting-started/install)
-* The **backend server** for this application must be running (typically on `http://localhost:5000`). Refer to the [Backend Repository](https://github.com/yourusername/sp_fs_yourname_backend) for setup instructions.
+* The **backend server** for this application must be running (typically on `http://localhost:5000`). Refer to the [Backend Repository](https://github.com/iarvellian/sp_fs_immanuel-arvellian-putra_backend) for setup instructions.
 
 ### Getting Started
 
